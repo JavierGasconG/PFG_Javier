@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/user2/Documents/PlatformIO/Projects/TFG_Javier"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp",
+			"sstream": "cpp",
+			"*.tcc": "cpp",
+			"string": "cpp"
+		}
+	}
+}
